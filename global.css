@@ -1,4 +1,7 @@
-.screen a {
+* {
+    box-sizing: border-box;
+  }
+  .screen a {
     display: contents;
     text-decoration: none;
   }
